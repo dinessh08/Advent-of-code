@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Elves {
+public class CalorieCounting {
     public static void main(String[] args) {
 
         List<String> input =
